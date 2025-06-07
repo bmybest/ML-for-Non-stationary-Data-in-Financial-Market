@@ -66,7 +66,7 @@
 
 # ML-for-Non-stationary-Data-in-Financial-Market (Eng version.)
 The project COM0904 was presented at the 14th SCiUS Forum, held from April 25 to 29, 2024, under the Technology and Computer category. It was awarded a Silver Medal and the Popular Vote award. The project was developed during the authors’ upper secondary education. The authors would like to extend their apologies for any errors or shortcomings that may remain.  
-This scientific project is part of the academic requirements for the course ESC 571: Project I, under the Science Classroom in University Affiliated School Project (SCiUS), Darunsikkhalai School, academic year 2023.
+This scientific project is part of the academic requirements for the course ESC 571: Project I, under the Engineering Science Classroom (Darunsikkhalai School) - SCiUS, academic year 2023.
 
 ## **Abstract**
 
@@ -94,8 +94,7 @@ Factor investing is a strategy of investing in stocks with specific characterist
 - Dr. Ekapong Hirunsirisawat  
 
 **School:**  
-Darunsikhalai Science School – King Mongkut’s University of Technology Thonburi
+Engineering Science Classroom (Darunsikkhalai School) – King Mongkut’s University of Technology Thonburi
 
-> This scientific project is part of the academic requirements for the course ESC 571: Project I, under the Science Classroom in University Affiliated School Project (SCiUS), Darunsikkhalai School, academic year 2023.
-
+> This scientific project is part of the academic requirements for the course ESC 571: Project I, under the Engineering Science Classroom (Darunsikkhalai School) - SCiUS, academic year 2023.
 
