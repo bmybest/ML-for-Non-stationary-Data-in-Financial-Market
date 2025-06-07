@@ -85,9 +85,9 @@ Factor investing is a strategy of investing in stocks with specific characterist
 
 
 ## Project Members
+- Auraion Pinsiri
 - Kodchapan Paknam
 - Natamon Ruangpayoongsak
-- Auraion Pinsiri
 
 **Project Advisors:**  
 - Dr. Teerasit Termsaitong  
