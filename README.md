@@ -13,7 +13,8 @@
 	[รายละเอียดเพิ่มเติม](https://github.com/bmybest/ML-for-Non-stationary-Data-in-Financial-Market/blob/main/README.md#%E0%B8%AD%E0%B8%B7%E0%B9%88%E0%B8%99-%E0%B9%86-%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1)
 			 
  - [ML-for-Non-stationary-Data-in-Financial-Market (Eng version.)](https://github.com/bmybest/ML-for-Non-stationary-Data-in-Financial-Market/blob/main/README.md#ml-for-non-stationary-data-in-financial-market-eng-version)
-		[Intordection](https://github.com/bmybest/ML-for-Non-stationary-Data-in-Financial-Market/blob/main/README.md#11-introduction)
+	
+ 	[Intordection](https://github.com/bmybest/ML-for-Non-stationary-Data-in-Financial-Market/blob/main/README.md#11-introduction)
 
 # การเรียนรู้ของเครื่องสำหรับค่าข้อมูลที่มีลักษณะไม่นิ่งในตลาดการเงิน (Thai version.)
 
