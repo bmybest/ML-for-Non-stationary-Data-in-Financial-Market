@@ -83,3 +83,19 @@ Factor investing is a strategy of investing in stocks with specific characterist
 ## **Other reference**
 [link Epostor and Extend Abtract](https://citly.me/zhPax)
 
+
+## Project Members
+- Kodchapan Paknam
+- Natamon Ruangpayoongsak
+- Auraion Pinsiri
+
+**Project Advisors:**  
+- Dr. Teerasit Termsaitong  
+- Dr. Ekapong Hirunsirisawat  
+
+**School:**  
+Darunsikhalai Science School – King Mongkut’s University of Technology Thonburi
+
+> This scientific project is part of the academic requirements for the course ESC 571: Project I, under the Science Classroom in University Affiliated School Project (SCiUS), Darunsikkhalai School, academic year 2023.
+
+
